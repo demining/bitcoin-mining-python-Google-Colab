@@ -1,4 +1,10 @@
-# Bitcoin Mining in Python
+-------------------------
+### Run bitcoin-mining-python-Google-Colab
+
+https://colab.research.google.com/drive/1-0k8ivA9Lk7Ymh0cFVdtB2uX8hh-htey?usp=sharing
+
+-------------------------
+
 A Python implementation of the Bitcoin mining algorithm
 
 This small script is a pseudo-simulation of the Bitcoin Genesis block mining process.
